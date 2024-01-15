@@ -13,7 +13,7 @@ class Quaternion:
     """
 
     def __init__(self, quat=[1, 0, 0, 0]):
-        self.__quat = np.array(quat, dtype=np.float)
+        self.__quat = np.array(quat, dtype=np.float64) # the np.float is deprecated since 1.20.0, please use float.64 instead
         self.normalize()
 
     @classmethod
