@@ -153,7 +153,10 @@ installing the python package can be done:
 
 To check PyMesh is installed correctly, run the following python unit tests::
 
-    python -c "import pymesh; pymesh.test()"
+    # Note that due to the deprecation of some functions in numpy, 
+    # use might need to assign collections.Callable with collections.abc.Callable first.
+    
+    python -c "import collections; collections.Callable = collections.abc.Callable; import pymesh; pymesh.test()"
 
 Once again, make sure all unit tests are passed, and report any unit test
 failures.
