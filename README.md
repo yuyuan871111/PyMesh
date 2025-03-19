@@ -151,7 +151,7 @@ installing the python package can be done:
     ./setup.py build # This an alternative way of calling cmake/make
     ./setup.py install
 
-To check PyMesh is installed correctly, run the following python unit tests::
+To check PyMesh is installed correctly, run the following python unit tests:
 
     # Note that due to the deprecation of some functions in numpy, 
     # use might need to assign collections.Callable with collections.abc.Callable first.
