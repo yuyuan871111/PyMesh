@@ -1,3 +1,14 @@
+## Importance Notice
+
+This project is a fork of the original PyMesh repository, which was licensed under the Mozilla Public License (MPL).  
+Modifications have been made to the original source code. The modified source code is available in this repository.
+
+The modifications are mainly made to support Python 3.8 and 3.10.
+
+Pre-built wheel files are provided in [Release Page](https://github.com/yuyuan871111/PyMesh/releases).
+
+
+
 [![CircleCI](https://circleci.com/gh/PyMesh/PyMesh/tree/main.svg?style=svg)](https://circleci.com/gh/PyMesh/PyMesh/tree/main)
 [![Build Status](https://travis-ci.org/PyMesh/PyMesh.svg?branch=main)](https://travis-ci.org/PyMesh/PyMesh)
 [![Documentation Status](https://readthedocs.org/projects/pymesh/badge/?version=latest)](https://pymesh.readthedocs.io/en/latest/?badge=latest)
