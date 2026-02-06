@@ -9,12 +9,11 @@ Pre-built wheel files are provided in [Release Page](https://github.com/yuyuan87
 
 
 
+### About PyMesh ###
+
 [![CircleCI](https://circleci.com/gh/PyMesh/PyMesh/tree/main.svg?style=svg)](https://circleci.com/gh/PyMesh/PyMesh/tree/main)
 [![Build Status](https://travis-ci.org/PyMesh/PyMesh.svg?branch=main)](https://travis-ci.org/PyMesh/PyMesh)
 [![Documentation Status](https://readthedocs.org/projects/pymesh/badge/?version=latest)](https://pymesh.readthedocs.io/en/latest/?badge=latest)
-
-
-### About PyMesh ###
 
 **PyMesh** is a code base developed by Qingnan Zhou for his PhD research at New
 York University.  It is a rapid prototyping platform focused on geometry
