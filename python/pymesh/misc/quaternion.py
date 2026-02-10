@@ -1,3 +1,18 @@
+# PyMesh
+# This project is a fork of the original PyMesh repository, which was licensed under
+# the Mozilla Public License (MPL). This is based on the information in setup.py.
+#
+# This file has been modified in this fork. The modified source code is available
+# in this repository.
+#
+# Modifications in this fork are mainly to support Python 3.8 and 3.10.
+# Pre-built wheel files are provided on the Release page.
+#
+# This Source Code Form is subject to the terms of the Mozilla Public License,
+# If a copy of the MPL was not distributed with this file, You can obtain one at
+# http://mozilla.org/MPL/.
+
+
 import numpy as np
 from numpy.linalg import norm, svd
 from math import pi, sin, cos, atan2, sqrt
