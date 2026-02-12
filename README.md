@@ -5,7 +5,7 @@ Modifications have been made to the original source code. The modified source co
 
 The modifications are mainly made to support Python 3.8 and 3.10.
 
-Pre-built wheel files are provided in [Release Page](https://github.com/yuyuan871111/PyMesh/releases).
+Pre-built wheel files by us are provided in [Release Page](https://github.com/yuyuan871111/PyMesh/releases).
 
 
 
