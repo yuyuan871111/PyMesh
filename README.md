@@ -1,6 +1,6 @@
 ## Importance Notice
 
-This project is a fork of the original PyMesh repository, which was licensed under the Mozilla Public License (MPL).  
+This project is a fork of the original PyMesh repository, which was licensed under the Mozilla Public License (MPL). This license information is found in the [`setup.py`](https://github.com/PyMesh/PyMesh/blob/384ba882b7558ba6e8653ed263c419226c22bddf/setup.py#L112).
 Modifications have been made to the original source code. The modified source code is available in this repository.
 
 The modifications are mainly made to support Python 3.8 and 3.10.
